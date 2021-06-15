@@ -1,5 +1,5 @@
 # node-webSocket
 
-Запуск - node index.js
+start - node index.js
 
-Работает на 9000 порту
+works on 9000 port
